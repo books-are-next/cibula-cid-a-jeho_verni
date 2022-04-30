@@ -1,17 +1,20 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Cid a jeho věrní",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Václav Cibula",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-11-02T00:00:00.000Z"
+      "modified": "2021-11-02T00:00:00.000Z",
+      "publisherShort": "MKP"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
-      "h3": "",
+      "h2": "MLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "h3": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
       "h4": "",
       "hr": "",
       "hrBefore": "",
@@ -30,50 +33,55 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "cid_a_jeho_verni_001.md",
             "xhtml": "cid_a_jeho_verni_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cid_a_jeho_verni_002.md",
             "xhtml": "cid_a_jeho_verni_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cid_a_jeho_verni_003.md",
             "xhtml": "cid_a_jeho_verni_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cid_a_jeho_verni_004.md",
             "xhtml": "cid_a_jeho_verni_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "cid_a_jeho_verni_005.md",
@@ -84,29 +92,35 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "cid_a_jeho_verni_006.md",
-            "xhtml": "cid_a_jeho_verni_006.xhtml",
-            "id": 5,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "cid_a_jeho_verni_007.md",
-            "xhtml": "cid_a_jeho_verni_007.xhtml",
-            "id": 6,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "cid_a_jeho_verni_006.md",
+                "xhtml": "cid_a_jeho_verni_006.xhtml",
+                "id": 5,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": false,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "cid_a_jeho_verni_007.md",
+                "xhtml": "cid_a_jeho_verni_007.xhtml",
+                "id": 6,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Zpěv o dceři hraběte Juliána"
+              }
+            ],
+            "title": "JAK PŘIŠLI MAUŘI DO ŠPANĚL"
           },
           {
             "filename": "cid_a_jeho_verni_008.md",
@@ -117,29 +131,35 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "cid_a_jeho_verni_009.md",
-            "xhtml": "cid_a_jeho_verni_009.xhtml",
-            "id": 8,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "cid_a_jeho_verni_010.md",
-            "xhtml": "cid_a_jeho_verni_010.xhtml",
-            "id": 9,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "cid_a_jeho_verni_009.md",
+                "xhtml": "cid_a_jeho_verni_009.xhtml",
+                "id": 8,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": false,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "cid_a_jeho_verni_010.md",
+                "xhtml": "cid_a_jeho_verni_010.xhtml",
+                "id": 9,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Píseň o Cidovi"
+              }
+            ],
+            "title": "PÍSNĚ O HRDINSKÝCH ČINECH"
           },
           {
             "filename": "cid_a_jeho_verni_011.md",
@@ -150,51 +170,61 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "cid_a_jeho_verni_012.md",
-            "xhtml": "cid_a_jeho_verni_012.xhtml",
-            "id": 11,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "cid_a_jeho_verni_013.md",
-            "xhtml": "cid_a_jeho_verni_013.xhtml",
-            "id": 12,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "cid_a_jeho_verni_014.md",
-            "xhtml": "cid_a_jeho_verni_014.xhtml",
-            "id": 13,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "cid_a_jeho_verni_015.md",
-            "xhtml": "cid_a_jeho_verni_015.xhtml",
-            "id": 14,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "cid_a_jeho_verni_012.md",
+                "xhtml": "cid_a_jeho_verni_012.xhtml",
+                "id": 11,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": false,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "cid_a_jeho_verni_013.md",
+                "xhtml": "cid_a_jeho_verni_013.xhtml",
+                "id": 12,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Zpěv o Sanchovi II. a obležení Zamory"
+              },
+              {
+                "filename": "cid_a_jeho_verni_014.md",
+                "xhtml": "cid_a_jeho_verni_014.xhtml",
+                "id": 13,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Zpěv o Maurce Zaidě"
+              },
+              {
+                "filename": "cid_a_jeho_verni_015.md",
+                "xhtml": "cid_a_jeho_verni_015.xhtml",
+                "id": 14,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Zpěv o zrádné hraběnce"
+              }
+            ],
+            "title": "JAK TO BYLO DOOPRAVDY"
           },
           {
             "filename": "cid_a_jeho_verni_016.md",
@@ -205,29 +235,35 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "cid_a_jeho_verni_017.md",
-            "xhtml": "cid_a_jeho_verni_017.xhtml",
-            "id": 16,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "cid_a_jeho_verni_018.md",
-            "xhtml": "cid_a_jeho_verni_018.xhtml",
-            "id": 17,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "cid_a_jeho_verni_017.md",
+                "xhtml": "cid_a_jeho_verni_017.xhtml",
+                "id": 16,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": false,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "cid_a_jeho_verni_018.md",
+                "xhtml": "cid_a_jeho_verni_018.xhtml",
+                "id": 17,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Zpěv o sedmi infantech z Lary"
+              }
+            ],
+            "title": "SVĚDECTVÍ STÍNŮ"
           },
           {
             "filename": "cid_a_jeho_verni_019.md",
@@ -238,29 +274,35 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "cid_a_jeho_verni_020.md",
-            "xhtml": "cid_a_jeho_verni_020.xhtml",
-            "id": 19,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "cid_a_jeho_verni_021.md",
-            "xhtml": "cid_a_jeho_verni_021.xhtml",
-            "id": 20,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "cid_a_jeho_verni_020.md",
+                "xhtml": "cid_a_jeho_verni_020.xhtml",
+                "id": 19,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": false,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "cid_a_jeho_verni_021.md",
+                "xhtml": "cid_a_jeho_verni_021.xhtml",
+                "id": 20,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Zpěv o Fernánu Gonzálezovi"
+              }
+            ],
+            "title": "ZEMĚ NA KŘIŽOVATCE"
           },
           {
             "filename": "cid_a_jeho_verni_022.md",
@@ -271,29 +313,35 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "cid_a_jeho_verni_023.md",
-            "xhtml": "cid_a_jeho_verni_023.xhtml",
-            "id": 22,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "cid_a_jeho_verni_024.md",
-            "xhtml": "cid_a_jeho_verni_024.xhtml",
-            "id": 23,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "cid_a_jeho_verni_023.md",
+                "xhtml": "cid_a_jeho_verni_023.xhtml",
+                "id": 22,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": false,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "cid_a_jeho_verni_024.md",
+                "xhtml": "cid_a_jeho_verni_024.xhtml",
+                "id": 23,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Zpěv o Rodrigově mládí"
+              }
+            ],
+            "title": "CESTA ZA MLÁDÍM CIDA CAMPEADORA"
           },
           {
             "filename": "cid_a_jeho_verni_025.md",
@@ -304,40 +352,47 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "cid_a_jeho_verni_026.md",
-            "xhtml": "cid_a_jeho_verni_026.xhtml",
-            "id": 25,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
-          },
-          {
-            "filename": "cid_a_jeho_verni_027.md",
-            "xhtml": "cid_a_jeho_verni_027.xhtml",
-            "id": 26,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "cid_a_jeho_verni_026.md",
+                "xhtml": "cid_a_jeho_verni_026.xhtml",
+                "id": 25,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": false,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": []
+              },
+              {
+                "filename": "cid_a_jeho_verni_027.md",
+                "xhtml": "cid_a_jeho_verni_027.xhtml",
+                "id": 26,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "Základní literatura"
+              }
+            ],
+            "title": "OD HRDINSKÝCH ZPĚVŮ K ROMANCÍM"
           },
           {
             "filename": "cid_a_jeho_verni_028.md",
             "xhtml": "cid_a_jeho_verni_028.xhtml",
             "id": 27,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -389,7 +444,7 @@
         "xhtml": "cid_a_jeho_verni_006.xhtml"
       },
       {
-        "titleSuggest": "Zpěv o dceři hraběte Juliána",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "cid_a_jeho_verni_007.md",
         "xhtml": "cid_a_jeho_verni_007.xhtml"
@@ -407,7 +462,7 @@
         "xhtml": "cid_a_jeho_verni_009.xhtml"
       },
       {
-        "titleSuggest": "Píseň o Cidovi",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "cid_a_jeho_verni_010.md",
         "xhtml": "cid_a_jeho_verni_010.xhtml"
@@ -425,19 +480,19 @@
         "xhtml": "cid_a_jeho_verni_012.xhtml"
       },
       {
-        "titleSuggest": "Zpěv o Sanchovi II. a obležení Zamory",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "cid_a_jeho_verni_013.md",
         "xhtml": "cid_a_jeho_verni_013.xhtml"
       },
       {
-        "titleSuggest": "Zpěv o Maurce Zaidě",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "cid_a_jeho_verni_014.md",
         "xhtml": "cid_a_jeho_verni_014.xhtml"
       },
       {
-        "titleSuggest": "Zpěv o zrádné hraběnce",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "cid_a_jeho_verni_015.md",
         "xhtml": "cid_a_jeho_verni_015.xhtml"
@@ -455,7 +510,7 @@
         "xhtml": "cid_a_jeho_verni_017.xhtml"
       },
       {
-        "titleSuggest": "Zpěv o sedmi infantech z Lary",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "cid_a_jeho_verni_018.md",
         "xhtml": "cid_a_jeho_verni_018.xhtml"
@@ -473,7 +528,7 @@
         "xhtml": "cid_a_jeho_verni_020.xhtml"
       },
       {
-        "titleSuggest": "Zpěv o Fernánu Gonzálezovi",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "cid_a_jeho_verni_021.md",
         "xhtml": "cid_a_jeho_verni_021.xhtml"
@@ -491,7 +546,7 @@
         "xhtml": "cid_a_jeho_verni_023.xhtml"
       },
       {
-        "titleSuggest": "Zpěv o Rodrigově mládí",
+        "titleSuggest": "",
         "subtitleSuggest": "",
         "filename": "cid_a_jeho_verni_024.md",
         "xhtml": "cid_a_jeho_verni_024.xhtml"
@@ -593,6 +648,6 @@
       "user": "books-are-next",
       "repo": "cibula-cid-a-jeho_verni"
     },
-    "generatedAt": 1651311535218
+    "generatedAt": 1651314577160
   }
 }

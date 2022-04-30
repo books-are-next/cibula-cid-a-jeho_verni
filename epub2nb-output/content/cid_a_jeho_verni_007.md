@@ -1,7 +1,9 @@
 ---
-title: "Zpěv o\_dceři hraběte Juliána"
+title: ''
 contentType: prose
 ---
+
+## Zpěv o dceři hraběte Juliána
 
   
 

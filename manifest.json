@@ -1,0 +1,615 @@
+{
+  "author": "Václav Cibula",
+  "contenttype": "prose",
+  "identifier": "cibula-cid-a-jeho-verni-14fc4f2",
+  "languagecode": "cs",
+  "modified": "2021-11-02T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "MKP",
+  "title": "Cid a jeho věrní",
+  "revision": "14fc4f2",
+  "generatedAt": {
+    "date": "Sat Apr 30 2022 10:30:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1651314631264
+  },
+  "documents": [
+    {
+      "title": "Cid a jeho věrní",
+      "file": "cid_a_jeho_verni_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "cid_a_jeho_verni_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "JAK PŘIŠLI MAUŘI DO ŠPANĚL • Cid a jeho věrní",
+      "file": "cid_a_jeho_verni_005.html",
+      "words": 5,
+      "chars": 26,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "cid_a_jeho_verni_002.html",
+      "next": "cid_a_jeho_verni_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JAK PŘIŠLI MAUŘI DO ŠPANĚL",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cid a jeho věrní",
+      "file": "cid_a_jeho_verni_006.html",
+      "words": 629,
+      "chars": 3911,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 2,
+      "prev": "cid_a_jeho_verni_005.html",
+      "next": "cid_a_jeho_verni_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cid a jeho věrní",
+      "file": "cid_a_jeho_verni_007.html",
+      "words": 1822,
+      "chars": 10672,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 3,
+      "prev": "cid_a_jeho_verni_006.html",
+      "next": "cid_a_jeho_verni_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Zpěv o dceři hraběte Juliána",
+              "id": "zpěv-odceři-hraběte-juliána",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "PÍSNĚ O HRDINSKÝCH ČINECH • Cid a jeho věrní",
+      "file": "cid_a_jeho_verni_008.html",
+      "words": 4,
+      "chars": 25,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 4,
+      "prev": "cid_a_jeho_verni_007.html",
+      "next": "cid_a_jeho_verni_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PÍSNĚ O HRDINSKÝCH ČINECH",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cid a jeho věrní",
+      "file": "cid_a_jeho_verni_009.html",
+      "words": 1260,
+      "chars": 8269,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 5,
+      "prev": "cid_a_jeho_verni_008.html",
+      "next": "cid_a_jeho_verni_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cid a jeho věrní",
+      "file": "cid_a_jeho_verni_010.html",
+      "words": 23216,
+      "chars": 133394,
+      "ideas": 745,
+      "role": "chapter",
+      "order": 6,
+      "prev": "cid_a_jeho_verni_009.html",
+      "next": "cid_a_jeho_verni_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Píseň o Cidovi",
+              "id": "píseň-ocidovi",
+              "children": [
+                {
+                  "index": 2,
+                  "level": 3,
+                  "name": "Králův hněv",
+                  "id": "králův-hněv",
+                  "children": []
+                },
+                {
+                  "index": 3,
+                  "level": 3,
+                  "name": "Svatba Cidových dcer",
+                  "id": "svatba-cidových-dcer",
+                  "children": []
+                },
+                {
+                  "index": 4,
+                  "level": 3,
+                  "name": "Pohana",
+                  "id": "pohana",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "JAK TO BYLO DOOPRAVDY • Cid a jeho věrní",
+      "file": "cid_a_jeho_verni_011.html",
+      "words": 4,
+      "chars": 21,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 7,
+      "prev": "cid_a_jeho_verni_010.html",
+      "next": "cid_a_jeho_verni_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "JAK TO BYLO DOOPRAVDY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cid a jeho věrní",
+      "file": "cid_a_jeho_verni_012.html",
+      "words": 1393,
+      "chars": 8654,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 8,
+      "prev": "cid_a_jeho_verni_011.html",
+      "next": "cid_a_jeho_verni_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cid a jeho věrní",
+      "file": "cid_a_jeho_verni_013.html",
+      "words": 596,
+      "chars": 3491,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 9,
+      "prev": "cid_a_jeho_verni_012.html",
+      "next": "cid_a_jeho_verni_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Zpěv o Sanchovi II.",
+              "id": "zpěv-osanchoviii",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cid a jeho věrní",
+      "file": "cid_a_jeho_verni_014.html",
+      "words": 434,
+      "chars": 2689,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 10,
+      "prev": "cid_a_jeho_verni_013.html",
+      "next": "cid_a_jeho_verni_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Zpěv o Maurce Zaidě",
+              "id": "zpěv-omaurce-zaidě",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cid a jeho věrní",
+      "file": "cid_a_jeho_verni_015.html",
+      "words": 178,
+      "chars": 1076,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 11,
+      "prev": "cid_a_jeho_verni_014.html",
+      "next": "cid_a_jeho_verni_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Zpěv o zrádné hraběnce",
+              "id": "zpěv-ozrádné-hraběnce",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "SVĚDECTVÍ STÍNŮ • Cid a jeho věrní",
+      "file": "cid_a_jeho_verni_016.html",
+      "words": 2,
+      "chars": 15,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 12,
+      "prev": "cid_a_jeho_verni_015.html",
+      "next": "cid_a_jeho_verni_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "SVĚDECTVÍ STÍNŮ",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cid a jeho věrní",
+      "file": "cid_a_jeho_verni_017.html",
+      "words": 321,
+      "chars": 2014,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 13,
+      "prev": "cid_a_jeho_verni_016.html",
+      "next": "cid_a_jeho_verni_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cid a jeho věrní",
+      "file": "cid_a_jeho_verni_018.html",
+      "words": 5890,
+      "chars": 34284,
+      "ideas": 200,
+      "role": "chapter",
+      "order": 14,
+      "prev": "cid_a_jeho_verni_017.html",
+      "next": "cid_a_jeho_verni_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Zpěv o sedmi infantech z Lary",
+              "id": "zpěv-osedmi-infantech-zlary",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ZEMĚ NA KŘIŽOVATCE • Cid a jeho věrní",
+      "file": "cid_a_jeho_verni_019.html",
+      "words": 3,
+      "chars": 18,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 15,
+      "prev": "cid_a_jeho_verni_018.html",
+      "next": "cid_a_jeho_verni_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZEMĚ NA KŘIŽOVATCE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cid a jeho věrní",
+      "file": "cid_a_jeho_verni_020.html",
+      "words": 666,
+      "chars": 4358,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 16,
+      "prev": "cid_a_jeho_verni_019.html",
+      "next": "cid_a_jeho_verni_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cid a jeho věrní",
+      "file": "cid_a_jeho_verni_021.html",
+      "words": 7846,
+      "chars": 45901,
+      "ideas": 213,
+      "role": "chapter",
+      "order": 17,
+      "prev": "cid_a_jeho_verni_020.html",
+      "next": "cid_a_jeho_verni_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Zpěv o Fernánu Gonzálezovi",
+              "id": "zpěv-ofernánu-gonzálezovi",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESTA ZA MLÁDÍM CIDA CAMPEADORA • Cid a jeho věrní",
+      "file": "cid_a_jeho_verni_022.html",
+      "words": 5,
+      "chars": 31,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 18,
+      "prev": "cid_a_jeho_verni_021.html",
+      "next": "cid_a_jeho_verni_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "CESTA ZA MLÁDÍM CIDA CAMPEADORA",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cid a jeho věrní",
+      "file": "cid_a_jeho_verni_023.html",
+      "words": 436,
+      "chars": 2723,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 19,
+      "prev": "cid_a_jeho_verni_022.html",
+      "next": "cid_a_jeho_verni_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cid a jeho věrní",
+      "file": "cid_a_jeho_verni_024.html",
+      "words": 5508,
+      "chars": 32251,
+      "ideas": 213,
+      "role": "chapter",
+      "order": 20,
+      "prev": "cid_a_jeho_verni_023.html",
+      "next": "cid_a_jeho_verni_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Zpěv o Rodrigově mládí",
+              "id": "zpěv-orodrigově-mládí",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "OD HRDINSKÝCH ZPĚVŮ K ROMANCÍM • Cid a jeho věrní",
+      "file": "cid_a_jeho_verni_025.html",
+      "words": 5,
+      "chars": 30,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 21,
+      "prev": "cid_a_jeho_verni_024.html",
+      "next": "cid_a_jeho_verni_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "OD HRDINSKÝCH ZPĚVŮ K ROMANCÍM",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cid a jeho věrní",
+      "file": "cid_a_jeho_verni_026.html",
+      "words": 818,
+      "chars": 5354,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 22,
+      "prev": "cid_a_jeho_verni_025.html",
+      "next": "cid_a_jeho_verni_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Základní literatura • Cid a jeho věrní",
+      "file": "cid_a_jeho_verni_027.html",
+      "words": 200,
+      "chars": 1265,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 23,
+      "prev": "cid_a_jeho_verni_026.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Základní literatura",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Cid a jeho věrní",
+      "file": "colophon.html",
+      "words": 168,
+      "chars": 1073,
+      "ideas": 25,
+      "role": "colophon",
+      "order": null,
+      "prev": "cid_a_jeho_verni_027.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 51416,
+      "chars": 301577,
+      "ideas": 1623
+    },
+    "chapters": {
+      "words": 51241,
+      "chars": 300472,
+      "ideas": 1595
+    }
+  }
+}
