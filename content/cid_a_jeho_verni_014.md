@@ -1,7 +1,9 @@
 ---
-title: "Zpěv o\_Maurce Zaidě"
+title: ''
 contentType: prose
 ---
+
+## Zpěv o Maurce Zaidě
 
   
 
