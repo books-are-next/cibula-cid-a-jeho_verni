@@ -1,0 +1,598 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Cid a jeho věrní",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Václav Cibula",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-11-02T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "cid_a_jeho_verni_001.md",
+            "xhtml": "cid_a_jeho_verni_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_002.md",
+            "xhtml": "cid_a_jeho_verni_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_003.md",
+            "xhtml": "cid_a_jeho_verni_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_004.md",
+            "xhtml": "cid_a_jeho_verni_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_005.md",
+            "xhtml": "cid_a_jeho_verni_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_006.md",
+            "xhtml": "cid_a_jeho_verni_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_007.md",
+            "xhtml": "cid_a_jeho_verni_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_008.md",
+            "xhtml": "cid_a_jeho_verni_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_009.md",
+            "xhtml": "cid_a_jeho_verni_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_010.md",
+            "xhtml": "cid_a_jeho_verni_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_011.md",
+            "xhtml": "cid_a_jeho_verni_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_012.md",
+            "xhtml": "cid_a_jeho_verni_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_013.md",
+            "xhtml": "cid_a_jeho_verni_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_014.md",
+            "xhtml": "cid_a_jeho_verni_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_015.md",
+            "xhtml": "cid_a_jeho_verni_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_016.md",
+            "xhtml": "cid_a_jeho_verni_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_017.md",
+            "xhtml": "cid_a_jeho_verni_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_018.md",
+            "xhtml": "cid_a_jeho_verni_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_019.md",
+            "xhtml": "cid_a_jeho_verni_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_020.md",
+            "xhtml": "cid_a_jeho_verni_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_021.md",
+            "xhtml": "cid_a_jeho_verni_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_022.md",
+            "xhtml": "cid_a_jeho_verni_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_023.md",
+            "xhtml": "cid_a_jeho_verni_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_024.md",
+            "xhtml": "cid_a_jeho_verni_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_025.md",
+            "xhtml": "cid_a_jeho_verni_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_026.md",
+            "xhtml": "cid_a_jeho_verni_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_027.md",
+            "xhtml": "cid_a_jeho_verni_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "cid_a_jeho_verni_028.md",
+            "xhtml": "cid_a_jeho_verni_028.xhtml",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Cid a jeho věrní",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Václav Cibula",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-11-02T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_001.md",
+        "xhtml": "cid_a_jeho_verni_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_002.md",
+        "xhtml": "cid_a_jeho_verni_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_003.md",
+        "xhtml": "cid_a_jeho_verni_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_004.md",
+        "xhtml": "cid_a_jeho_verni_004.xhtml"
+      },
+      {
+        "titleSuggest": "JAK PŘIŠLI MAUŘI DO ŠPANĚL",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_005.md",
+        "xhtml": "cid_a_jeho_verni_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_006.md",
+        "xhtml": "cid_a_jeho_verni_006.xhtml"
+      },
+      {
+        "titleSuggest": "Zpěv o dceři hraběte Juliána",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_007.md",
+        "xhtml": "cid_a_jeho_verni_007.xhtml"
+      },
+      {
+        "titleSuggest": "PÍSNĚ O HRDINSKÝCH ČINECH",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_008.md",
+        "xhtml": "cid_a_jeho_verni_008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_009.md",
+        "xhtml": "cid_a_jeho_verni_009.xhtml"
+      },
+      {
+        "titleSuggest": "Píseň o Cidovi",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_010.md",
+        "xhtml": "cid_a_jeho_verni_010.xhtml"
+      },
+      {
+        "titleSuggest": "JAK TO BYLO DOOPRAVDY",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_011.md",
+        "xhtml": "cid_a_jeho_verni_011.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_012.md",
+        "xhtml": "cid_a_jeho_verni_012.xhtml"
+      },
+      {
+        "titleSuggest": "Zpěv o Sanchovi II. a obležení Zamory",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_013.md",
+        "xhtml": "cid_a_jeho_verni_013.xhtml"
+      },
+      {
+        "titleSuggest": "Zpěv o Maurce Zaidě",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_014.md",
+        "xhtml": "cid_a_jeho_verni_014.xhtml"
+      },
+      {
+        "titleSuggest": "Zpěv o zrádné hraběnce",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_015.md",
+        "xhtml": "cid_a_jeho_verni_015.xhtml"
+      },
+      {
+        "titleSuggest": "SVĚDECTVÍ STÍNŮ",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_016.md",
+        "xhtml": "cid_a_jeho_verni_016.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_017.md",
+        "xhtml": "cid_a_jeho_verni_017.xhtml"
+      },
+      {
+        "titleSuggest": "Zpěv o sedmi infantech z Lary",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_018.md",
+        "xhtml": "cid_a_jeho_verni_018.xhtml"
+      },
+      {
+        "titleSuggest": "ZEMĚ NA KŘIŽOVATCE",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_019.md",
+        "xhtml": "cid_a_jeho_verni_019.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_020.md",
+        "xhtml": "cid_a_jeho_verni_020.xhtml"
+      },
+      {
+        "titleSuggest": "Zpěv o Fernánu Gonzálezovi",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_021.md",
+        "xhtml": "cid_a_jeho_verni_021.xhtml"
+      },
+      {
+        "titleSuggest": "CESTA ZA MLÁDÍM CIDA CAMPEADORA",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_022.md",
+        "xhtml": "cid_a_jeho_verni_022.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_023.md",
+        "xhtml": "cid_a_jeho_verni_023.xhtml"
+      },
+      {
+        "titleSuggest": "Zpěv o Rodrigově mládí",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_024.md",
+        "xhtml": "cid_a_jeho_verni_024.xhtml"
+      },
+      {
+        "titleSuggest": "OD HRDINSKÝCH ZPĚVŮ K ROMANCÍM",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_025.md",
+        "xhtml": "cid_a_jeho_verni_025.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_026.md",
+        "xhtml": "cid_a_jeho_verni_026.xhtml"
+      },
+      {
+        "titleSuggest": "Základní literatura",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_027.md",
+        "xhtml": "cid_a_jeho_verni_027.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "cid_a_jeho_verni_028.md",
+        "xhtml": "cid_a_jeho_verni_028.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/MZK_logo_tyrkys_transparent.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_cid_a_jeho_verni.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_dopis_bez1radku_-I-",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_seznam_-0-0-",
+      "MLP_text",
+      "MLP_text_-I-",
+      "MLP_text_-I-_-12-0-",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_text_bez1radku_-I-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_tiraz_podnazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_titulka_prekladatel",
+      "MLP_uroven1_cast",
+      "MLP_uroven1_zvlastni_pripady",
+      "MLP_uroven2_kapitola",
+      "MLP_uroven3_nadpis",
+      "MLP_znak_kurziva_11b",
+      "ParaOverride-1",
+      "ParaOverride-3",
+      "ParaOverride-4",
+      "ParaOverride-5",
+      "_idGenCharOverride-1",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectAttribute-3",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "cibula-cid-a-jeho_verni"
+    },
+    "generatedAt": 1651311535218
+  }
+}
