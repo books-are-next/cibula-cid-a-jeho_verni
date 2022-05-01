@@ -1,9 +1,7 @@
 ---
-title: ''
+title: "Zpěv o\_zrádné hraběnce"
 contentType: prose
 ---
-
-### Zpěv o zrádné hraběnce
 
   
 

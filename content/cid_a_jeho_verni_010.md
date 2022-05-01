@@ -1,11 +1,9 @@
 ---
-title: ''
+title: "Píseň o\_Cidovi"
 contentType: prose
 ---
 
-### Píseň o Cidovi
-
-#### Králův hněv
+### Králův hněv
 
   
 
@@ -483,7 +481,7 @@ Potom hrabě pobodl koně ostruhami a rychle se vzdaloval, jen chvílemi otoči
 
 Hrabě zmizel, Campeador se obrátil a zamířil zpátky ke svým.
 
-#### Svatba Cidových dcer
+### Svatba Cidových dcer
 
   
 
@@ -933,7 +931,7 @@ Avšak nezůstalo.
 
 Na tomto místě končím svůj zpěv o svatbě Cidových dcer. O tom, co přichystali infanti z Carriónu oběma mladým ženám, vám řeknu až příště.
 
-#### Pohana
+### Pohana
 
   
 
