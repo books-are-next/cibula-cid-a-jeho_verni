@@ -1,16 +1,16 @@
 {
   "author": "Václav Cibula",
   "contenttype": "prose",
-  "identifier": "cibula-cid-a-jeho-verni-eafe4ef",
+  "identifier": "cibula-cid-a-jeho-verni-7c5c874",
   "languagecode": "cs",
   "modified": "2021-11-02T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "MKP",
   "title": "Cid a jeho věrní",
-  "revision": "eafe4ef",
+  "revision": "7c5c874",
   "generatedAt": {
-    "date": "Sun May 01 2022 11:55:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651406134079
+    "date": "Sun May 01 2022 12:04:10 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1651406650596
   },
   "documents": [
     {
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "title": "Cid a jeho věrní",
+      "title": "Zpěv o dceři hraběte Juliána • Cid a jeho věrní",
       "file": "cid_a_jeho_verni_007.html",
       "words": 1822,
       "chars": 10672,
@@ -87,7 +87,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Zpěv o dceři hraběte Juliána",
           "id": null,
           "children": []
         }
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "title": "Cid a jeho věrní",
+      "title": "Píseň o Cidovi • Cid a jeho věrní",
       "file": "cid_a_jeho_verni_010.html",
       "words": 23216,
       "chars": 133394,
@@ -147,7 +147,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Píseň o Cidovi",
           "id": null,
           "children": []
         }
@@ -194,11 +194,11 @@
       ]
     },
     {
-      "title": "Cid a jeho věrní",
+      "title": "Zpěv o Sanchovi II. a obležení Zamory • Cid a jeho věrní",
       "file": "cid_a_jeho_verni_013.html",
       "words": 596,
-      "chars": 3491,
-      "ideas": 15,
+      "chars": 3492,
+      "ideas": 14,
       "role": "chapter",
       "order": 9,
       "prev": "cid_a_jeho_verni_012.html",
@@ -207,14 +207,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Zpěv o Sanchovi II. a obležení Zamory",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Cid a jeho věrní",
+      "title": "Zpěv o Maurce Zaidě • Cid a jeho věrní",
       "file": "cid_a_jeho_verni_014.html",
       "words": 434,
       "chars": 2689,
@@ -227,14 +227,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Zpěv o Maurce Zaidě",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Cid a jeho věrní",
+      "title": "Zpěv o zrádné hraběnce • Cid a jeho věrní",
       "file": "cid_a_jeho_verni_015.html",
       "words": 178,
       "chars": 1076,
@@ -247,7 +247,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Zpěv o zrádné hraběnce",
           "id": null,
           "children": []
         }
@@ -294,7 +294,7 @@
       ]
     },
     {
-      "title": "Cid a jeho věrní",
+      "title": "Zpěv o sedmi infantech z Lary • Cid a jeho věrní",
       "file": "cid_a_jeho_verni_018.html",
       "words": 5890,
       "chars": 34284,
@@ -307,7 +307,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Zpěv o sedmi infantech z Lary",
           "id": null,
           "children": []
         }
@@ -354,7 +354,7 @@
       ]
     },
     {
-      "title": "Cid a jeho věrní",
+      "title": "Zpěv o Fernánu Gonzálezovi • Cid a jeho věrní",
       "file": "cid_a_jeho_verni_021.html",
       "words": 7846,
       "chars": 45901,
@@ -367,7 +367,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Zpěv o Fernánu Gonzálezovi",
           "id": null,
           "children": []
         }
@@ -414,7 +414,7 @@
       ]
     },
     {
-      "title": "Cid a jeho věrní",
+      "title": "Zpěv o Rodrigově mládí • Cid a jeho věrní",
       "file": "cid_a_jeho_verni_024.html",
       "words": 5508,
       "chars": 32251,
@@ -427,7 +427,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Zpěv o Rodrigově mládí",
           "id": null,
           "children": []
         }
@@ -517,13 +517,13 @@
   "totals": {
     "all": {
       "words": 51416,
-      "chars": 301577,
-      "ideas": 1623
+      "chars": 301578,
+      "ideas": 1622
     },
     "chapters": {
       "words": 51241,
-      "chars": 300472,
-      "ideas": 1595
+      "chars": 300473,
+      "ideas": 1594
     }
   }
 }
