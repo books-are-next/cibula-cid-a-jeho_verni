@@ -1,7 +1,9 @@
 ---
-title: "Zpěv o\_Rodrigově mládí"
+title: ''
 contentType: prose
 ---
+
+### Zpěv o Rodrigově mládí
 
   
 
