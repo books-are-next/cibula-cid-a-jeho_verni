@@ -11,11 +11,11 @@
       "publisherShort": "MKP"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast",
       "subtitle": "",
       "h2": "",
-      "h3": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
-      "h4": "",
+      "h3": "MLP_uroven2_kapitola",
+      "h4": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
       "hr": "",
       "hrBefore": "",
       "hrAfter": "",
