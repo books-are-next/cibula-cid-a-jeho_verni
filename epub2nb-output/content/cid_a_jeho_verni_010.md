@@ -1,9 +1,7 @@
 ---
-title: ''
+title: "Píseň o\_Cidovi"
 contentType: prose
 ---
-
-## Píseň o Cidovi
 
 ### Králův hněv
 

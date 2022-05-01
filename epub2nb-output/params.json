@@ -11,9 +11,9 @@
       "publisherShort": "MKP"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast",
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
       "subtitle": "",
-      "h2": "MLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "h2": "",
       "h3": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
       "h4": "",
       "hr": "",
@@ -93,6 +93,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "JAK PŘIŠLI MAUŘI DO ŠPANĚL",
             "children": [
               {
                 "filename": "cid_a_jeho_verni_006.md",
@@ -116,11 +117,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Zpěv o dceři hraběte Juliána"
+                "title": "Zpěv o dceři hraběte Juliána",
+                "children": []
               }
-            ],
-            "title": "JAK PŘIŠLI MAUŘI DO ŠPANĚL"
+            ]
           },
           {
             "filename": "cid_a_jeho_verni_008.md",
@@ -132,6 +132,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "PÍSNĚ O HRDINSKÝCH ČINECH",
             "children": [
               {
                 "filename": "cid_a_jeho_verni_009.md",
@@ -155,11 +156,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Píseň o Cidovi"
+                "title": "Píseň o Cidovi",
+                "children": []
               }
-            ],
-            "title": "PÍSNĚ O HRDINSKÝCH ČINECH"
+            ]
           },
           {
             "filename": "cid_a_jeho_verni_011.md",
@@ -171,6 +171,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "JAK TO BYLO DOOPRAVDY",
             "children": [
               {
                 "filename": "cid_a_jeho_verni_012.md",
@@ -194,8 +195,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Zpěv o Sanchovi II. a obležení Zamory"
+                "title": "Zpěv o Sanchovi II. a obležení Zamory",
+                "children": []
               },
               {
                 "filename": "cid_a_jeho_verni_014.md",
@@ -207,8 +208,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Zpěv o Maurce Zaidě"
+                "title": "Zpěv o Maurce Zaidě",
+                "children": []
               },
               {
                 "filename": "cid_a_jeho_verni_015.md",
@@ -220,11 +221,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Zpěv o zrádné hraběnce"
+                "title": "Zpěv o zrádné hraběnce",
+                "children": []
               }
-            ],
-            "title": "JAK TO BYLO DOOPRAVDY"
+            ]
           },
           {
             "filename": "cid_a_jeho_verni_016.md",
@@ -236,6 +236,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "SVĚDECTVÍ STÍNŮ",
             "children": [
               {
                 "filename": "cid_a_jeho_verni_017.md",
@@ -259,11 +260,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Zpěv o sedmi infantech z Lary"
+                "title": "Zpěv o sedmi infantech z Lary",
+                "children": []
               }
-            ],
-            "title": "SVĚDECTVÍ STÍNŮ"
+            ]
           },
           {
             "filename": "cid_a_jeho_verni_019.md",
@@ -275,6 +275,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "ZEMĚ NA KŘIŽOVATCE",
             "children": [
               {
                 "filename": "cid_a_jeho_verni_020.md",
@@ -298,11 +299,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Zpěv o Fernánu Gonzálezovi"
+                "title": "Zpěv o Fernánu Gonzálezovi",
+                "children": []
               }
-            ],
-            "title": "ZEMĚ NA KŘIŽOVATCE"
+            ]
           },
           {
             "filename": "cid_a_jeho_verni_022.md",
@@ -314,6 +314,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "CESTA ZA MLÁDÍM CIDA CAMPEADORA",
             "children": [
               {
                 "filename": "cid_a_jeho_verni_023.md",
@@ -337,11 +338,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Zpěv o Rodrigově mládí"
+                "title": "Zpěv o Rodrigově mládí",
+                "children": []
               }
-            ],
-            "title": "CESTA ZA MLÁDÍM CIDA CAMPEADORA"
+            ]
           },
           {
             "filename": "cid_a_jeho_verni_025.md",
@@ -353,6 +353,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "OD HRDINSKÝCH ZPĚVŮ K ROMANCÍM",
             "children": [
               {
                 "filename": "cid_a_jeho_verni_026.md",
@@ -376,11 +377,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Základní literatura"
+                "title": "Základní literatura",
+                "children": []
               }
-            ],
-            "title": "OD HRDINSKÝCH ZPĚVŮ K ROMANCÍM"
+            ]
           },
           {
             "filename": "cid_a_jeho_verni_028.md",
@@ -444,7 +444,7 @@
         "xhtml": "cid_a_jeho_verni_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zpěv o dceři hraběte Juliána",
         "subtitleSuggest": "",
         "filename": "cid_a_jeho_verni_007.md",
         "xhtml": "cid_a_jeho_verni_007.xhtml"
@@ -462,7 +462,7 @@
         "xhtml": "cid_a_jeho_verni_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Píseň o Cidovi",
         "subtitleSuggest": "",
         "filename": "cid_a_jeho_verni_010.md",
         "xhtml": "cid_a_jeho_verni_010.xhtml"
@@ -480,19 +480,19 @@
         "xhtml": "cid_a_jeho_verni_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zpěv o Sanchovi II. a obležení Zamory",
         "subtitleSuggest": "",
         "filename": "cid_a_jeho_verni_013.md",
         "xhtml": "cid_a_jeho_verni_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zpěv o Maurce Zaidě",
         "subtitleSuggest": "",
         "filename": "cid_a_jeho_verni_014.md",
         "xhtml": "cid_a_jeho_verni_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zpěv o zrádné hraběnce",
         "subtitleSuggest": "",
         "filename": "cid_a_jeho_verni_015.md",
         "xhtml": "cid_a_jeho_verni_015.xhtml"
@@ -510,7 +510,7 @@
         "xhtml": "cid_a_jeho_verni_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zpěv o sedmi infantech z Lary",
         "subtitleSuggest": "",
         "filename": "cid_a_jeho_verni_018.md",
         "xhtml": "cid_a_jeho_verni_018.xhtml"
@@ -528,7 +528,7 @@
         "xhtml": "cid_a_jeho_verni_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zpěv o Fernánu Gonzálezovi",
         "subtitleSuggest": "",
         "filename": "cid_a_jeho_verni_021.md",
         "xhtml": "cid_a_jeho_verni_021.xhtml"
@@ -546,7 +546,7 @@
         "xhtml": "cid_a_jeho_verni_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zpěv o Rodrigově mládí",
         "subtitleSuggest": "",
         "filename": "cid_a_jeho_verni_024.md",
         "xhtml": "cid_a_jeho_verni_024.xhtml"
@@ -648,6 +648,6 @@
       "user": "books-are-next",
       "repo": "cibula-cid-a-jeho_verni"
     },
-    "generatedAt": 1651314577160
+    "generatedAt": 1651405709736
   }
 }

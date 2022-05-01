@@ -1,10 +1,7 @@
 ---
-title: ''
+title: "Zpěv o\_Sanchovi\_II. a\_obležení Zamory"
 contentType: prose
 ---
-
-## Zpěv o Sanchovi II.  
-a obležení Zamory
 
   
 

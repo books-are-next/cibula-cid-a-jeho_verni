@@ -1,9 +1,7 @@
 ---
-title: ''
+title: "Zpěv o\_sedmi infantech z\_Lary"
 contentType: prose
 ---
-
-## Zpěv o sedmi infantech z Lary
 
   
 
