@@ -1,9 +1,7 @@
 ---
-title: ''
+title: "Zpěv o\_Fernánu Gonzálezovi"
 contentType: prose
 ---
-
-## Zpěv o Fernánu Gonzálezovi
 
   
 
