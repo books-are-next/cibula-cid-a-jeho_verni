@@ -1,16 +1,16 @@
 {
   "author": "Václav Cibula",
   "contenttype": "prose",
-  "identifier": "cibula-cid-a-jeho-verni-4e2598a",
+  "identifier": "cibula-cid-a-jeho-verni-10b33fa",
   "languagecode": "cs",
   "modified": "2021-11-02T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "MKP",
   "title": "Cid a jeho věrní",
-  "revision": "4e2598a",
+  "revision": "10b33fa",
   "generatedAt": {
-    "date": "Sun May 01 2022 21:27:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651440445220
+    "date": "Sun May 01 2022 22:19:52 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1651443592640
   },
   "documents": [
     {
@@ -149,7 +149,29 @@
           "level": 1,
           "name": "Píseň o Cidovi",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Králův hněv",
+              "id": "králův-hněv",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Svatba Cidových dcer",
+              "id": "svatba-cidových-dcer",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Pohana",
+              "id": "pohana",
+              "children": []
+            }
+          ]
         }
       ]
     },
