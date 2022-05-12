@@ -51,7 +51,7 @@
             "filename": "cid_a_jeho_verni_002.md",
             "xhtml": "cid_a_jeho_verni_002.xhtml",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -480,7 +480,7 @@
         "xhtml": "cid_a_jeho_verni_012.xhtml"
       },
       {
-        "titleSuggest": "Zpěv o Sanchovi II. a obležení Zamory",
+        "titleSuggest": "Zpěv o Sanchovi II\\. a obležení Zamory",
         "subtitleSuggest": "",
         "filename": "cid_a_jeho_verni_013.md",
         "xhtml": "cid_a_jeho_verni_013.xhtml"
@@ -648,6 +648,6 @@
       "user": "books-are-next",
       "repo": "cibula-cid-a-jeho_verni"
     },
-    "generatedAt": 1651443531953
+    "generatedAt": 1652351684609
   }
 }

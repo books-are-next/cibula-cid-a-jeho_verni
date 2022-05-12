@@ -1,21 +1,49 @@
 {
-  "author": "Václav Cibula",
-  "contenttype": "prose",
-  "identifier": "cibula-cid-a-jeho-verni-10b33fa",
-  "languagecode": "cs",
-  "modified": "2021-11-02T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "MKP",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Cid a jeho věrní",
-  "revision": "10b33fa",
+  "author": "Václav Cibula",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "cibula-cid-a-jeho-verni-aa7a884",
+  "revision": "aa7a884",
+  "readingOrder": [
+    "promo.html",
+    "cid_a_jeho_verni_005.html",
+    "cid_a_jeho_verni_006.html",
+    "cid_a_jeho_verni_007.html",
+    "cid_a_jeho_verni_008.html",
+    "cid_a_jeho_verni_009.html",
+    "cid_a_jeho_verni_010.html",
+    "cid_a_jeho_verni_011.html",
+    "cid_a_jeho_verni_012.html",
+    "cid_a_jeho_verni_013.html",
+    "cid_a_jeho_verni_014.html",
+    "cid_a_jeho_verni_015.html",
+    "cid_a_jeho_verni_016.html",
+    "cid_a_jeho_verni_017.html",
+    "cid_a_jeho_verni_018.html",
+    "cid_a_jeho_verni_019.html",
+    "cid_a_jeho_verni_020.html",
+    "cid_a_jeho_verni_021.html",
+    "cid_a_jeho_verni_022.html",
+    "cid_a_jeho_verni_023.html",
+    "cid_a_jeho_verni_024.html",
+    "cid_a_jeho_verni_025.html",
+    "cid_a_jeho_verni_026.html",
+    "cid_a_jeho_verni_027.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Sun May 01 2022 22:19:52 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651443592640
+    "date": "Thu May 12 2022 10:43:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352238667
   },
   "documents": [
     {
-      "title": "Cid a jeho věrní",
-      "file": "cid_a_jeho_verni_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +51,17 @@
       "order": 0,
       "prev": null,
       "next": "cid_a_jeho_verni_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "JAK PŘIŠLI MAUŘI DO ŠPANĚL • Cid a jeho věrní",
+      "title": "JAK PŘIŠLI MAUŘI DO ŠPANĚL",
       "file": "cid_a_jeho_verni_005.html",
       "words": 5,
       "chars": 26,
       "ideas": 1,
       "role": "chapter",
       "order": 1,
-      "prev": "cid_a_jeho_verni_002.html",
+      "prev": "promo.html",
       "next": "cid_a_jeho_verni_006.html",
       "toc": [
         {
@@ -74,7 +94,7 @@
       ]
     },
     {
-      "title": "Zpěv o dceři hraběte Juliána • Cid a jeho věrní",
+      "title": "Zpěv o dceři hraběte Juliána",
       "file": "cid_a_jeho_verni_007.html",
       "words": 1822,
       "chars": 10672,
@@ -94,7 +114,7 @@
       ]
     },
     {
-      "title": "PÍSNĚ O HRDINSKÝCH ČINECH • Cid a jeho věrní",
+      "title": "PÍSNĚ O HRDINSKÝCH ČINECH",
       "file": "cid_a_jeho_verni_008.html",
       "words": 4,
       "chars": 25,
@@ -134,7 +154,7 @@
       ]
     },
     {
-      "title": "Píseň o Cidovi • Cid a jeho věrní",
+      "title": "Píseň o Cidovi",
       "file": "cid_a_jeho_verni_010.html",
       "words": 23216,
       "chars": 133394,
@@ -176,7 +196,7 @@
       ]
     },
     {
-      "title": "JAK TO BYLO DOOPRAVDY • Cid a jeho věrní",
+      "title": "JAK TO BYLO DOOPRAVDY",
       "file": "cid_a_jeho_verni_011.html",
       "words": 4,
       "chars": 21,
@@ -216,7 +236,7 @@
       ]
     },
     {
-      "title": "Zpěv o Sanchovi II. a obležení Zamory • Cid a jeho věrní",
+      "title": "Zpěv o Sanchovi II. a obležení Zamory",
       "file": "cid_a_jeho_verni_013.html",
       "words": 596,
       "chars": 3492,
@@ -236,7 +256,7 @@
       ]
     },
     {
-      "title": "Zpěv o Maurce Zaidě • Cid a jeho věrní",
+      "title": "Zpěv o Maurce Zaidě",
       "file": "cid_a_jeho_verni_014.html",
       "words": 434,
       "chars": 2689,
@@ -256,7 +276,7 @@
       ]
     },
     {
-      "title": "Zpěv o zrádné hraběnce • Cid a jeho věrní",
+      "title": "Zpěv o zrádné hraběnce",
       "file": "cid_a_jeho_verni_015.html",
       "words": 178,
       "chars": 1076,
@@ -276,7 +296,7 @@
       ]
     },
     {
-      "title": "SVĚDECTVÍ STÍNŮ • Cid a jeho věrní",
+      "title": "SVĚDECTVÍ STÍNŮ",
       "file": "cid_a_jeho_verni_016.html",
       "words": 2,
       "chars": 15,
@@ -316,7 +336,7 @@
       ]
     },
     {
-      "title": "Zpěv o sedmi infantech z Lary • Cid a jeho věrní",
+      "title": "Zpěv o sedmi infantech z Lary",
       "file": "cid_a_jeho_verni_018.html",
       "words": 5890,
       "chars": 34284,
@@ -336,7 +356,7 @@
       ]
     },
     {
-      "title": "ZEMĚ NA KŘIŽOVATCE • Cid a jeho věrní",
+      "title": "ZEMĚ NA KŘIŽOVATCE",
       "file": "cid_a_jeho_verni_019.html",
       "words": 3,
       "chars": 18,
@@ -376,7 +396,7 @@
       ]
     },
     {
-      "title": "Zpěv o Fernánu Gonzálezovi • Cid a jeho věrní",
+      "title": "Zpěv o Fernánu Gonzálezovi",
       "file": "cid_a_jeho_verni_021.html",
       "words": 7846,
       "chars": 45901,
@@ -396,7 +416,7 @@
       ]
     },
     {
-      "title": "CESTA ZA MLÁDÍM CIDA CAMPEADORA • Cid a jeho věrní",
+      "title": "CESTA ZA MLÁDÍM CIDA CAMPEADORA",
       "file": "cid_a_jeho_verni_022.html",
       "words": 5,
       "chars": 31,
@@ -436,7 +456,7 @@
       ]
     },
     {
-      "title": "Zpěv o Rodrigově mládí • Cid a jeho věrní",
+      "title": "Zpěv o Rodrigově mládí",
       "file": "cid_a_jeho_verni_024.html",
       "words": 5508,
       "chars": 32251,
@@ -456,7 +476,7 @@
       ]
     },
     {
-      "title": "OD HRDINSKÝCH ZPĚVŮ K ROMANCÍM • Cid a jeho věrní",
+      "title": "OD HRDINSKÝCH ZPĚVŮ K ROMANCÍM",
       "file": "cid_a_jeho_verni_025.html",
       "words": 5,
       "chars": 30,
@@ -496,7 +516,7 @@
       ]
     },
     {
-      "title": "Základní literatura • Cid a jeho věrní",
+      "title": "Základní literatura",
       "file": "cid_a_jeho_verni_027.html",
       "words": 200,
       "chars": 1265,
@@ -516,11 +536,11 @@
       ]
     },
     {
-      "title": "Tiráž • Cid a jeho věrní",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 168,
-      "chars": 1073,
-      "ideas": 25,
+      "words": 144,
+      "chars": 902,
+      "ideas": 19,
       "role": "colophon",
       "order": null,
       "prev": "cid_a_jeho_verni_027.html",
@@ -538,9 +558,9 @@
   ],
   "totals": {
     "all": {
-      "words": 51416,
-      "chars": 301578,
-      "ideas": 1622
+      "words": 51392,
+      "chars": 301407,
+      "ideas": 1616
     },
     "chapters": {
       "words": 51241,
