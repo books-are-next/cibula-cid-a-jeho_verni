@@ -13,7 +13,7 @@ meta:
   modified: '2021-11-02T00:00:00.000Z'
   publisherShort: MKP
 readingOrder:
-  - cid_a_jeho_verni_002.html
+  - promo.html
   - cid_a_jeho_verni_005.html
   - cid_a_jeho_verni_006.html
   - cid_a_jeho_verni_007.html
