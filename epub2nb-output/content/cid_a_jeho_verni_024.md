@@ -3,8 +3,6 @@ title: "Zpěv o\_Rodrigově mládí"
 contentType: prose
 ---
 
-  
-
 Když zemřel první leónský král Pelayo, zůstala země bez pána. Král neměl mužské potomky, zanechal po sobě jen dceru. Ta se po čase vdala a měla syna; jmenoval se don Alfonso, a když dospěl, stal se králem Leónu.
 
 Tou dobou byli Kastilci povinni účastnit se sněmů v Leónu. Proto si zvolili dva vysoké soudce: když byl jeden na sněmu, druhý vládl v Kastilii.
@@ -68,6 +66,8 @@ syn Laína Laíneze se jmenoval Lope,
 Fernán měl Álvara Fáněze.
 
 Diegův syn se jmenoval Rodrigo či Ruy Díaz; později mu říkali pro jeho statečnost Campeador anebo Cid.
+
+  
 
 Rodrigo se od chlapeckých let vyznamenával nejlepšími ctnostmi. Byl spravedlivý a nebojácný, nesnášel ani nejmenší křivdu a velmi miloval svého otce, Diega Laíneze.
 
