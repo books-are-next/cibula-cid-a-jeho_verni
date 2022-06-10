@@ -11,6 +11,8 @@ contentType: prose
 
 Země tato, kterou Španělsko zveme, je svlažována pěti vodnatými řekami: jsou to Ebro, Duero, Tajo, Guadalquivir a Guadiana; a každá z nich je oddělena od druhé vysokými horami a rozlehlými krajinami. Doliny i roviny její jsou veliké a rozsáhlé a dík úrodnosti půdy i vláze řek dávají mnohé plody a překypují hojností. Španělsko rodí nadbytek obilí a výborné ovoce, oplývá rybami i lahodným mlékem a všemi věcmi, jež se z mléka dělají; má plno zvěře vysoké i nízké a bezpočet stád, množství bujných koní a mezků, je chráněno mnoha pevnými hrady, má hojnost chleba a dobrého vína, jež budí jarost, je bohaté na kovy, olovo, cín, rtuť, železo, měď, stříbro, zlato a drahé kameny, na všeliké druhy mramoru, sůl mořskou i kamennou a četné další nerosty; má dostatek sladkého medu i cukru, vosku ke svícení, oleje i jasného šafránu. Nade všechny země vyniká Španělsko důmyslem, odvahou i vytrvalostí v boji, zručností v práci, věrností svému pánu, touhou po vědění, uhlazeností řeči a vůbec ve všem je dokonalé. Ó Španělsko, kdo má dost slov a dosti nadání, aby dokázal vypovědět tvou znamenitost!
 
+  
+
 Tuto chválu vložil ve 13. století do své Obecné kroniky španělský král Alfonso X., zvaný Učený.
 
 Podle jeho nadšených slov by se mohlo zdát, že Španělsko bylo šťastnou a půvabnou zemí, jejíž obyvatelé žili poklidně a téměř bez starostí uprostřed nadbytku a krásy, které se nic nevyrovná.

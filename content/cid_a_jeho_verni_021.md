@@ -3,8 +3,6 @@ title: "Zpěv o\_Fernánu Gonzálezovi"
 contentType: prose
 ---
 
-  
-
 Budu vám vyprávět, jak naši předkové ztratili svou zemi a zase jí dobyli zpátky, jak trpěli zimou, hladem a mnoha jinými útrapami, budu vám vyprávět o králi donu Rodrigovi a také o dalších statečných bojovnících.
 
 Je to už dávno, co vládl ve Španělích dobrý král don Rodrigo. Celá země tehdy vzkvétala a lidé žili podle práva, Mauři se báli královy síly a odvahy. Našel se však muž, který záviděl králi, že je tak oblíben u svých věrných; jmenoval se don Julián, a ten vymyslil, jak dona Rodriga zahubit. Spojil se s maurským panovníkem a poradil mu, jak přemoci dona Rodriga lstí. Maur ho vyslechl a pochválil ho; potom přeplul přes moře, navštívil krále dona Rodriga a řekl mu:

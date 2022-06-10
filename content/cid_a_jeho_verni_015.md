@@ -3,8 +3,6 @@ title: "Zpěv o\_zrádné hraběnce"
 contentType: prose
 ---
 
-  
-
 Nejenom maurské princezny se chtěly stát za starých časů ženami kastilských králů; někdy zase naopak kastilské ženy z urozených rodů toužily po tom, aby byly maurskými královnami.
 
 Když vládl v Kastilii hrabě Garci Fernández, jeho žena doňa Sancha si dlouho tajně přála stát se manželkou maurského krále Almanzora a neustále přemýšlela, jak by toho dosáhla.

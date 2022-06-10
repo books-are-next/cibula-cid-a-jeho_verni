@@ -5,8 +5,6 @@ contentType: prose
 
 ## Králův hněv
 
-  
-
 Poslyšte píseň o mém Cidovi, o statečném bojovníku, který se narodil ve šťastné hodině. Pocházel z Bivaru a vlastně se jmenoval Ruy či Rodrigo Díaz, ale všichni mu říkali Cid. Svedl mnohé bitvy s Maury pro větší slávu svou i svého pána, kastilského krále dona Alfonsa. Král si ho velmi oblíbil pro jeho věrnost; avšak mnozí urozenci nepřáli Cidovi tu přízeň, záviděli mu a čekali jen na vhodnou chvíli, aby ho u krále pomluvili. A příležitost nedala na sebe dlouho čekat.
 
 Jednoho dne poslal král Alfonso mého Cida k maurským panovníkům do Córdoby a Sevilly, aby vyzvedl povinnou daň, kterou vládcové těchto dvou malých království museli každoročně platit. Shodou okolností však právě tou dobou jiný maurský panovník, Almudafar z Granady, napadl Sevillu a chtěl pokořit jejího krále Amutamize. Když se to Cid dozvěděl, poslal do Granady list, v němž žádal Almudafara, aby přestal pustošit kraj svého souseda, zastavil válku a vrátil se domů; jinak ho král Alfonso zle potrestá.
@@ -483,8 +481,6 @@ Hrabě zmizel, Campeador se obrátil a zamířil zpátky ke svým.
 
 ## Svatba Cidových dcer
 
-  
-
 Poslouchejte dobře, znovu začíná zpěv o mém Cidovi z Bivaru.
 
 Cid opustil oblast Zaragozy, zanechal za sebou Huesu i kraj kolem Montalbanu. Začal se probíjet směrem ke slanému moři; na východě vychází slunce a v tu stranu teď zamířil se svými lidmi. Postupně dobyl Jériku a Ondu a Almenar, celý kraj kolem Burriany a pomalu se blížil k Valencii na břehu velkého moře. Můžete si myslet, že se to Maurům ve Valencii nelíbilo ani trochu.
@@ -932,8 +928,6 @@ Avšak nezůstalo.
 Na tomto místě končím svůj zpěv o svatbě Cidových dcer. O tom, co přichystali infanti z Carriónu oběma mladým ženám, vám řeknu až příště.
 
 ## Pohana
-
-  
 
 Cid žil ve Valencii se všemi svými věrnými a také s infanty z Car­riónu, kteří si vzali za ženy jeho dvě dcery, doňu Elvíru a doňu Sol.
 

@@ -3,8 +3,6 @@ title: "Zpěv o\_Sanchovi\_II\\. a\_obležení Zamory"
 contentType: prose
 ---
 
-  
-
 Když umíral král Fernando řečený Velký, rozdělil zemi svým třem synům: nejstaršímu Sanchovi dal Kastilii a Navarru, mladšímu Alfonsovi dal León a Asturii, nejmladšímu Garcíovi dal Galicii. Na dvě královské dcery, doňu Urraku a doňu Elvíru, už nezbylo nic.
 
 Jakmile se o závěti doslechla doňa Urraca, shromáždila sto žen své družiny a vydala se s nimi za otcem. V královském paláci sestoupily ženy z mezků a hlasitě naříkaly, nejvíc ze všech však plakala doňa Urraca.

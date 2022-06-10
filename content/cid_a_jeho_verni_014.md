@@ -3,8 +3,6 @@ title: "Zpěv o\_Maurce Zaidě"
 contentType: prose
 ---
 
-  
-
 Nedlouho před koncem 11. století se přihodilo na jihu poloostrova něco podobného jako kdysi, když přišli Mauři do Španěl. Maurský král Amutamiz, který vládl jako vazal dona Alfonsa v Seville, nechtěl už přihlížet neustálému růstu Alfonsovy moci a obrátil se o pomoc do Afriky, kde byla říše saharských kočovníků, maurských Almoravidů. Almoravidé, proslulí válečníci, se vylodili ve velikém počtu na březích poloostrova; avšak dříve, než se vrhli proti severu, chtěli si podmanit Maury, kteří se stali vazaly kastilského krále. Pod vedením svého panovníka Yúsufa, tou dobou už sedmdesátiletého, zaútočili proti Amutamizovi a oblehli Sevillu i další města, mezi nimi zejména Córdobu. Tu spravoval tehdy Amutamizův syn; když viděl, že se Almoravidé blíží, poslal celou svou rodinu a všechny své poklady do hradu Almodóvaru, který dal krátce předtím silně opevnit. Avšak bylo už pozdě, útočníci se vrhli s velikou silou proti Córdobě a dobyli jí.
 
 Král Amutamiz přikázal, aby k němu co nejdříve přišla krásná Zaida, která se tou dobou ukrývala na hradě Almodóvaru a patřila do královské rodiny. Když Zaida přišla, maurský panovník ji poprosil, aby se vydala za kastilským králem donem Alfonsem a odevzdala mu správu mnoha hradů a pevností ze severních oblastí Amutamizova království; aby to však učinila jen pod jednou podmínkou, že si ji totiž don Alfonso vezme za ženu.
