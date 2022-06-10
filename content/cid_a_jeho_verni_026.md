@@ -3,11 +3,7 @@ title: ''
 contentType: prose
 ---
 
-  
-
-  
-
-  
+<section>
 
 V 15. století se španělská společnost mění od základu.
 
@@ -50,3 +46,5 @@ Když roku 1936 vkročil na španělskou půdu fašistický generál Franco a s
 Další a další romance vznikají podnes – umělé i lidové; a přes hlubiny staletí přinášejí až do našeho času odkaz a vzdálený hlas staré hrdinské písně. Vypravují o hodnotách, kterých si vážíme i my – a právě my: o lásce a statečnosti, o hrdinství a věrnosti, o přátelství a cti.
 
 A to je dobrý důvod, abychom hlasu dávných potulných zpěváků pozorně naslouchali i dnes, třebaže už žijeme docela jinak a jinde.
+
+</section>

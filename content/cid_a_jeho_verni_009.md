@@ -3,11 +3,7 @@ title: ''
 contentType: prose
 ---
 
-  
-
-  
-
-  
+<section>
 
 Mauři obsadili v 8. století celý poloostrov s výjimkou nevelkého hornatého území na severu země, kde později vzniklo několik malých království – Kastilie, Aragon, Navarra a León. Odtud pak začala dlouhá válka, takzvaná rekonquista, což znamená znovudobývání. Válka trvala osm set let a skončila vlastně až na konci 15. století, kdy byli poslední Mauři vytlačeni z Pyrenejského poloostrova.
 
@@ -68,3 +64,5 @@ Zatímco francouzské hrdinské písně, určené pro urozence, byly často dost
 Dalším rysem je výrazný realismus básně: přesné detaily v popisech bojů a zvyků, působivá prostota dialogů, to všechno dodává básni strhující pravdivosti. Nechybí tu však ani místa jímavě poetická, nechybí úsměv, ba ani výsměch a posměšek. Dávný básník zachytil Cidovy příběhy s realistickou prostotou a strohou jednoduchostí; ale právě v této prostotě je velikost a krása.
 
 A to všechno jsou důvody, proč se Píseň o Cidovi stala jednou z největších památek celé středověké literatury.
+
+</section>

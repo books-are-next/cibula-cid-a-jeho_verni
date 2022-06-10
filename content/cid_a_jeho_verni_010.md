@@ -3,6 +3,8 @@ title: "Píseň o\_Cidovi"
 contentType: prose
 ---
 
+<section>
+
 ## Králův hněv
 
 Poslyšte píseň o mém Cidovi, o statečném bojovníku, který se narodil ve šťastné hodině. Pocházel z Bivaru a vlastně se jmenoval Ruy či Rodrigo Díaz, ale všichni mu říkali Cid. Svedl mnohé bitvy s Maury pro větší slávu svou i svého pána, kastilského krále dona Alfonsa. Král si ho velmi oblíbil pro jeho věrnost; avšak mnozí urozenci nepřáli Cidovi tu přízeň, záviděli mu a čekali jen na vhodnou chvíli, aby ho u krále pomluvili. A příležitost nedala na sebe dlouho čekat.
@@ -1490,3 +1492,5 @@ Tak získal Cid ještě víc na vážnosti a úctě. Jeho dcery jsou královnam
 Cid Campeador žil potom ještě dlouhá léta; když zemřel, byl slavně pochován a jeho památka žije dodnes. Ať je mu země lehká, ať je lehká jednou i nám, spravedlivým i hříšníkům!
 
 To je má píseň o Cidovi Campeadorovi, tady se končí můj zpěv.
+
+</section>

@@ -3,6 +3,8 @@ title: "Zpěv o\_Fernánu Gonzálezovi"
 contentType: prose
 ---
 
+<section>
+
 Budu vám vyprávět, jak naši předkové ztratili svou zemi a zase jí dobyli zpátky, jak trpěli zimou, hladem a mnoha jinými útrapami, budu vám vyprávět o králi donu Rodrigovi a také o dalších statečných bojovnících.
 
 Je to už dávno, co vládl ve Španělích dobrý král don Rodrigo. Celá země tehdy vzkvétala a lidé žili podle práva, Mauři se báli královy síly a odvahy. Našel se však muž, který záviděl králi, že je tak oblíben u svých věrných; jmenoval se don Julián, a ten vymyslil, jak dona Rodriga zahubit. Spojil se s maurským panovníkem a poradil mu, jak přemoci dona Rodriga lstí. Maur ho vyslechl a pochválil ho; potom přeplul přes moře, navštívil krále dona Rodriga a řekl mu:
@@ -426,3 +428,5 @@ Don Fernán souhlasil, a tak se oba setkali znovu; při té schůzce se dohodli
 Potom se rozloučili a všichni se vrátili do svých domovů: Fernán González do Kastilie a Sancho Ordóněz do Leónu. Don Fernán byl rád, že už nikomu nebude muset líbat ruku na znamení vazalství, a všichni ostatní Kastilci se vraceli tak vesele, že už veselejší ani být nemohli; zdálo se jim, že vycházejí z veliké tmy do velikého světla.
 
 A tak se stala Kastilie nezávislá na leónském království.
+
+</section>

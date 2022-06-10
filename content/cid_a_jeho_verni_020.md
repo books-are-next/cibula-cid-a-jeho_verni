@@ -3,11 +3,7 @@ title: ''
 contentType: prose
 ---
 
-  
-
-  
-
-  
+<section>
 
 Století, jež uplynulo od chvíle, kdy se objevila Píseň o Cidovi, znamenalo období vrcholného rozkvětu španělské hrdinské písně. Od poloviny 13. století se však začíná všechno měnit.
 
@@ -32,3 +28,5 @@ Do tohoto období patří i další významný hrdinský zpěv – Báseň o F
 Báseň byla napsána v polovině 13. století novým dvorským stylem, který byl v této době na šlechtických dvorech tak oblíben. Báseň však nebyla určena urozeným posluchačům; je to velmi pravděpodobně jen přepis staršího a ztraceného zpěvu, jehož charakter se rýsuje pod novým zpracováním velmi zřetelně a o jehož existenci víme z kronik. V této době se církev pokoušela proniknout výrazněji mezi lid a to byl i důvod nového zpracování oblíbeného zpěvu o Fernánu Gonzálezovi podle požadavků církevní propagandy: autorem tohoto zpracování nebyl žakéř, ale nejspíš jakýsi mnich z kláštera San Pedro de Arlanza. Styl i přístup autorův však tvoří jen velmi vnější nános, pod kterým se jasně a zřetelně rýsuje původní ztracený zpěv s jasnou kresbou charakterů, s výrazným líčením události a zejména s velmi silným prvkem kastilského vlastenectví. A tak je i příběh o Fernánu Gonzálezovi dalším významným svědectvím svého času.
 
 Vydejme se proto po stopách staré a ztracené písně.
+
+</section>

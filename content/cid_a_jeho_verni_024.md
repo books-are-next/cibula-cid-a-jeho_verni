@@ -3,6 +3,8 @@ title: "Zpěv o\_Rodrigově mládí"
 contentType: prose
 ---
 
+<section>
+
 Když zemřel první leónský král Pelayo, zůstala země bez pána. Král neměl mužské potomky, zanechal po sobě jen dceru. Ta se po čase vdala a měla syna; jmenoval se don Alfonso, a když dospěl, stal se králem Leónu.
 
 Tou dobou byli Kastilci povinni účastnit se sněmů v Leónu. Proto si zvolili dva vysoké soudce: když byl jeden na sněmu, druhý vládl v Kastilii.
@@ -67,7 +69,9 @@ Fernán měl Álvara Fáněze.
 
 Diegův syn se jmenoval Rodrigo či Ruy Díaz; později mu říkali pro jeho statečnost Campeador anebo Cid.
 
-  
+</section>
+
+<section>
 
 Rodrigo se od chlapeckých let vyznamenával nejlepšími ctnostmi. Byl spravedlivý a nebojácný, nesnášel ani nejmenší křivdu a velmi miloval svého otce, Diega Laíneze.
 
@@ -428,3 +432,5 @@ Don Rodrigo pobyl ještě několik dnů na královském dvoře a potom zamíři
 Čas plynul, don Rodrigo pomohl svému králi ještě mnoha odvážnými činy; když dobrý král don Fernando zemřel, pomáhal stejně oddaně i jeho nástupci, donu Sanchovi. Když ten se rozloučil se světem, stál Rodrigo Díaz z Bivaru věrně i při králi donu Alfonsovi a jeho sláva byla stále větší a větší.
 
 Ale to už mu dávno říkali všichni Cid anebo Campeador, což znamená Bojovník.
+
+</section>

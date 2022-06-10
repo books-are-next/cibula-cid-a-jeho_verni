@@ -3,11 +3,7 @@ title: ''
 contentType: prose
 ---
 
-  
-
-  
-
-  
+<section>
 
 Jsme na samém konci 14. století.
 
@@ -28,3 +24,5 @@ Zatímco starý zpěv vycházel z historické skutečnosti a byl ve své vět�
 A přece i Rodrigovo mládí zachycuje hlavní rysy společnosti své doby. Zpěv má velmi odbojné sociální ladění: Cid ve staré písni byl za všech okolností věrný králi, byl to nositel základních lidových ctností, starostlivý otec rodiny. Teď je to horkokrevný vznětlivý mládenec, ke králi se chová leckdy dost ostře a stejně neuctivě vystupuje i před římským papežem. A tak ani píseň o Rodrigově mládí není dílem jen a jen bujné fantazie, ale obrazem stále narůstajících sociálních sporů ve španělské společnosti. Ostatně Zpěv o Rodrigovi jistě nebyl určen tehdejšímu rytířstvu, spíše se zdá, že do něj pronikly četné prvky městské.
 
 Zpěv o Rodrigovi byl ve své době neobyčejně oblíben a stal se pramenem mnoha zpracování cidovské tematiky v dalších obdobích: nesmíme totiž zapomenout, že tyto pozdější doby už starou Píseň o Cidovi neznaly – vždyť byla objevena a uveřejněna až v 18. století a plně ji zhodnotilo a ocenilo až století dvacáté.
+
+</section>

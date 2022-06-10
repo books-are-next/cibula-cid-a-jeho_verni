@@ -3,6 +3,8 @@ title: Základní literatura
 contentType: prose
 ---
 
+<section>
+
 Bédier Joseph: _Les légendes épiques I–IV, Paris 1908–1913_
 
 Bělič Oldřich: _Dějiny španělské literatury I – Literatura rozvinutého feudalismu, Praha 1963_
@@ -38,3 +40,5 @@ Menéndez Pidal Ramón: _Reliquias de la poesía épica espaňola, Madrid 1951_
 — _Roncesvalles – un nuevo cantar de gesta espaňol, ed. R. Menéndez Pidal, Revista de Filología Espaňola 1917_
 
 Smirnov A. A.: _Istorija zapadnoevropejskoj literatury I, Moskva 1947_
+
+</section>
