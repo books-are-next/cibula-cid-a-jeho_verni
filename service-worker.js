@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-32182e8';
+const CACHE = 'cache-065a02d';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./cid_a_jeho_verni_005.html","./cid_a_jeho_verni_006.html","./cid_a_jeho_verni_007.html","./cid_a_jeho_verni_008.html","./cid_a_jeho_verni_009.html","./cid_a_jeho_verni_010.html","./cid_a_jeho_verni_011.html","./cid_a_jeho_verni_012.html","./cid_a_jeho_verni_013.html","./cid_a_jeho_verni_014.html","./cid_a_jeho_verni_015.html","./cid_a_jeho_verni_016.html","./cid_a_jeho_verni_017.html","./cid_a_jeho_verni_018.html","./cid_a_jeho_verni_019.html","./cid_a_jeho_verni_020.html","./cid_a_jeho_verni_021.html","./cid_a_jeho_verni_022.html","./cid_a_jeho_verni_023.html","./cid_a_jeho_verni_024.html","./cid_a_jeho_verni_025.html","./cid_a_jeho_verni_026.html","./cid_a_jeho_verni_027.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/mzk_logo_tyrkys_transparent.jpg","./resources/obalka_cid_a_jeho_verni.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./cid_a_jeho_verni_005.html","./cid_a_jeho_verni_006.html","./cid_a_jeho_verni_007.html","./cid_a_jeho_verni_008.html","./cid_a_jeho_verni_009.html","./cid_a_jeho_verni_010.html","./cid_a_jeho_verni_011.html","./cid_a_jeho_verni_012.html","./cid_a_jeho_verni_013.html","./cid_a_jeho_verni_014.html","./cid_a_jeho_verni_015.html","./cid_a_jeho_verni_016.html","./cid_a_jeho_verni_017.html","./cid_a_jeho_verni_018.html","./cid_a_jeho_verni_019.html","./cid_a_jeho_verni_020.html","./cid_a_jeho_verni_021.html","./cid_a_jeho_verni_022.html","./cid_a_jeho_verni_024.html","./cid_a_jeho_verni_023.html","./cid_a_jeho_verni_025.html","./cid_a_jeho_verni_026.html","./cid_a_jeho_verni_027.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/mzk_logo_tyrkys_transparent.jpg","./resources/obalka_cid_a_jeho_verni.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {

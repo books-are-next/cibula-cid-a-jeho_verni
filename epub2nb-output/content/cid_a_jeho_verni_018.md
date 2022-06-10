@@ -3,6 +3,8 @@ title: "Zpěv o\_sedmi infantech z\_Lary"
 contentType: prose
 ---
 
+<section>
+
 Za krále dona Ramira žil v městečku Salas v údolí zvaném Lara muž jménem Gonzálo Gustioz. Jeho žena doňa Sancha byla dobrá a krásná a všichni ji milovali. Měli spolu sedm synů, sedm mládenců – infantů. Doňa Sancha měla bratra; Ruy Velázquez se proslavil v mnoha bojích s Maury, statečnost však nebyla jeho jediná vlastnost. Byl i prudký a prchlivý, takže měl mnoho nepřátel a všichni se před ním měli na pozoru. Muž, který svou odvahu prokazoval v mládí na bojišti, se ve zralém věku dopustil hanebné zrady – tím hanebnější, že to byla zrada na vlastních příbuzných.
 
 Poslyšte sami, jak se to stalo.
@@ -400,3 +402,5 @@ Na jeho tělo pak dal navršit kameny; a jak dny plynuly, přicházeli otcové 
 A doňa Lambra, zrádcova žena?
 
 Ta musela opustit dům s jedinou služebnou, až do smrti bloudila krajem a nikdo jí nepodal nikdy ani kousek chleba.
+
+</section>

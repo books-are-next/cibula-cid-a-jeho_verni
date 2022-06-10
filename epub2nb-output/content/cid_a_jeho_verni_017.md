@@ -3,11 +3,7 @@ title: ''
 contentType: prose
 ---
 
-  
-
-  
-
-  
+<section>
 
 Z kronik byl rekonstruován i jeden z nejvýznamnějších hrdinských zpěvů starého Španělska: je to Zpěv o sedmi infantech z Lary, z něhož se zachovalo jen asi pět set veršů a celek musel být pracně sestaven podle zápisů kronikářů.
 
@@ -18,3 +14,5 @@ Koncem 11. či začátkem 12. století vzniklo první zpracování této udál
 Autor v něm zachytil nejenom skutečnou událost, ale i něco dalšího, neméně významného: totiž základní rysy společnosti, uprostřed které žil; tak se ze Zpěvu o sedmi infantech z Lary stalo svědectví. Je to velmi přesný obraz mravů těch dávných časů, mravů často příkrých a tvrdých; protože je to však obraz živý, zachycuje nejenom temné stíny, ale i barvy světlejší a jasnější: proti hlouposti a nenávisti tu stojí věrnost, přátelství a čest, proti předsudkům obětavost a touha po spravedlnosti. V postavách některých urozenců zachytil autor velmi kriticky záporné vlastnosti mnoha feudálních pánů a jistě tím promluvil svým posluchačům doopravdy ze srdce.
 
 A to všechno jsou důvody, proč byl Zpěv o sedmi infatech z Lary ve své době tak nesmírně oblíben zejména u lidového obecenstva.
+
+</section>

@@ -3,6 +3,8 @@ title: "Zpěv o\_dceři hraběte Juliána"
 contentType: prose
 ---
 
+<section>
+
 Za starých časů žil ve španělské zemi král Gótů, jmenoval se Vitiza. Měl čtyři velká města a v každém trávil část roku: zimu v Toledu, neboť to bylo hlavní město jeho království; jaro v Méridě, kde bylo mnoho medu, a hlavně zvěře v lesích, takže se mohl věnovat lovu; na podzim odjel do Córdoby, kde byla tou dobou hojnost ovoce a vína, léto trávil v Seville, protože tam bylo nejvíc ryb.
 
 Král Vitiza napravil v mládí mnoho křivd, kterých se dopustil jeho otec, král Egica, avšak později se sám dopustil jiných, ještě horších; kromě toho se stal rozmařilým a panovačným. Když zemřel, nenalezl proto žádný z jeho synů takovou podporu, aby mohl nastoupit na jeho trůn. I stal se po něm králem Gótů urozenec jménem Rodrigo; avšak Vitizovi synové měli proti němu velikou zášť a neustále vyvolávali rozbroje, aby zbavili Rodriga trůnu.
@@ -100,3 +102,5 @@ Tenkrát si zvolili ze svých řad i nového krále: stal se jím Rodrigův spo
 V tom čase poslali Mauři svému vladaři zprávu, v níž pravili:
 
 „Pane, boj skončil. Na severu země se sice ještě skrývá jakýsi člověk jménem Pelayo, ale má jen třicet hladových mužů. Ukrývají se v horách a živí se medem divokých včel, aby nezemřeli hladem. Co proti nám zmůže třicet hladovějících štvanců? Zvítězili jsme!“
+
+</section>

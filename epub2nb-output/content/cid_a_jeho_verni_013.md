@@ -3,6 +3,8 @@ title: "Zpěv o\_Sanchovi\_II\\. a\_obležení Zamory"
 contentType: prose
 ---
 
+<section>
+
 Když umíral král Fernando řečený Velký, rozdělil zemi svým třem synům: nejstaršímu Sanchovi dal Kastilii a Navarru, mladšímu Alfonsovi dal León a Asturii, nejmladšímu Garcíovi dal Galicii. Na dvě královské dcery, doňu Urraku a doňu Elvíru, už nezbylo nic.
 
 Jakmile se o závěti doslechla doňa Urraca, shromáždila sto žen své družiny a vydala se s nimi za otcem. V královském paláci sestoupily ženy z mezků a hlasitě naříkaly, nejvíc ze všech však plakala doňa Urraca.
@@ -28,3 +30,5 @@ V městě se rozmáhá hlad, obléhající jsou nemilosrdní. Obležení se ted
 Když míjí Cidův stan, Cid ho spatří a zeptá se ho, co dělá král. Bellido Alfonso se vyleká, už myslí, že je prozrazen, a dá se na útěk. Cid tuší zradu, vyskočí na neosedlaného koně a ujíždí za prchajícím. Pronásleduje ho až k městským hradbám; tam se však v poslední chvíli otevře brána a Bellido Alfonso se zachrání.
 
 V táboře Kastilců nastane veliké zoufalství a všichni se obávají, co bude dál. Brzy nato přijíždějí k Zamoře bratr zabitého, don Alfonso; stal se teď novým králem a pánem celé země. Všichni se obávají jeho hněvu, neboť don Sancho ho připravil o dědictví – o království leónské. A všichni teď přísahají novému vládci věrnost – všichni až na Cida, který žádá, aby nový král nejdříve sám přísahal, že nemá vinu na bratrově smrti. Don Alfonso splní jeho žádost a podrobí se starému zvyku, přísahá na svou nevinu, ale i když pak Cida přijme na královský dvůr a prokazuje mu vysoké pocty, nikdy už nezapomene, co se stalo před hradbami města Zamory.
+
+</section>

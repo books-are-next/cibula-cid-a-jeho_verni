@@ -3,11 +3,7 @@ title: ''
 contentType: prose
 ---
 
-  
-
-  
-
-  
+<section>
 
 Žil Cid opravdu, žili skutečně Álvar Fáněz, doňa Jiména a ostatní hrdinové písně?
 
@@ -68,3 +64,5 @@ Zpěv o Sanchovi II. a obležení Zamory (kde se opět objevuje postava Cida)
 Maurka Zaida,
 
 Zrádná hraběnka.
+
+</section>
