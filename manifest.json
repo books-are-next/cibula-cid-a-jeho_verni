@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "cibula-cid-a-jeho-verni-6dbb863",
-  "revision": "6dbb863",
+  "identifier": "cibula-cid-a-jeho-verni-378649b",
+  "revision": "378649b",
   "readingOrder": [
     "promo.html",
     "cid_a_jeho_verni_005.html",
@@ -37,8 +37,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:52:50 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157170539
+    "date": "Wed Jun 15 2022 05:47:18 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272038250
   },
   "documents": [
     {
@@ -538,8 +538,8 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 140,
-      "chars": 853,
+      "words": 154,
+      "chars": 960,
       "ideas": 18,
       "role": "colophon",
       "order": null,
@@ -558,8 +558,8 @@
   ],
   "totals": {
     "all": {
-      "words": 51388,
-      "chars": 301358,
+      "words": 51402,
+      "chars": 301465,
       "ideas": 1615
     },
     "chapters": {
