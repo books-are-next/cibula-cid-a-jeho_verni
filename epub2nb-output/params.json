@@ -8,7 +8,8 @@
       "author": "Václav Cibula",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-11-02T00:00:00.000Z",
-      "publisherShort": "MKP"
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola\nMLP_uroven1_cast\nMLP_uroven1_zvlastni_pripady\nMLP_uroven2_kapitola",
@@ -648,6 +649,6 @@
       "user": "books-are-next",
       "repo": "cibula-cid-a-jeho_verni"
     },
-    "generatedAt": 1655271119374
+    "generatedAt": 1655364096562
   }
 }

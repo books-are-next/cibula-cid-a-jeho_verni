@@ -5,10 +5,11 @@
   "title": "Cid a jeho věrní",
   "author": "Václav Cibula",
   "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "cibula-cid-a-jeho-verni-378649b",
-  "revision": "378649b",
+  "identifier": "cibula-cid-a-jeho-verni-896c94e",
+  "revision": "896c94e",
   "readingOrder": [
     "promo.html",
     "cid_a_jeho_verni_005.html",
@@ -37,8 +38,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:47:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272038250
+    "date": "Thu Jun 16 2022 07:28:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364495860
   },
   "documents": [
     {
@@ -558,9 +559,9 @@
   ],
   "totals": {
     "all": {
-      "words": 51402,
-      "chars": 301465,
-      "ideas": 1615
+      "words": 51403,
+      "chars": 301473,
+      "ideas": 1616
     },
     "chapters": {
       "words": 51241,
