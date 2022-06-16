@@ -11,7 +11,8 @@ meta:
   author: Václav Cibula
   publisher: Městská knihovna v Praze
   modified: '2021-11-02T00:00:00.000Z'
-  publisherShort: MKP
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
   - promo.html
   - cid_a_jeho_verni_005.html
