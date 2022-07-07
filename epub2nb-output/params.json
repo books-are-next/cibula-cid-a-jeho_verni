@@ -64,7 +64,7 @@
             "filename": "cid_a_jeho_verni_003.md",
             "xhtml": "cid_a_jeho_verni_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -76,7 +76,7 @@
             "filename": "cid_a_jeho_verni_004.md",
             "xhtml": "cid_a_jeho_verni_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -387,7 +387,7 @@
             "filename": "cid_a_jeho_verni_028.md",
             "xhtml": "cid_a_jeho_verni_028.xhtml",
             "id": 27,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -649,6 +649,6 @@
       "user": "books-are-next",
       "repo": "cibula-cid-a-jeho_verni"
     },
-    "generatedAt": 1655978128021
+    "generatedAt": 1657181724146
   }
 }

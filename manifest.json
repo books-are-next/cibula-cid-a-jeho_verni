@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "cibula-cid-a-jeho-verni-4aad2b1",
-  "revision": "4aad2b1",
+  "identifier": "cibula-cid-a-jeho-verni-26eb467",
+  "revision": "26eb467",
   "readingOrder": [
     "promo.html",
     "cid_a_jeho_verni_005.html",
@@ -35,11 +35,11 @@
     "cid_a_jeho_verni_025.html",
     "cid_a_jeho_verni_026.html",
     "cid_a_jeho_verni_027.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 09:57:31 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978251852
+    "date": "Thu Jul 07 2022 08:18:38 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657181918821
   },
   "documents": [
     {
@@ -68,7 +68,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "JAK PŘIŠLI MAUŘI DO ŠPANĚL",
+          "name": "JAK PŘIŠLI MAUŘI DO ŠPANĚL",
           "id": null,
           "children": []
         }
@@ -210,7 +210,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "JAK TO BYLO DOOPRAVDY",
+          "name": "JAK TO BYLO DOOPRAVDY",
           "id": null,
           "children": []
         }
@@ -370,7 +370,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ZEMĚ NA KŘIŽOVATCE",
+          "name": "ZEMĚ NA KŘIŽOVATCE",
           "id": null,
           "children": []
         }
@@ -430,7 +430,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "CESTA ZA MLÁDÍM CIDA CAMPEADORA",
+          "name": "CESTA ZA MLÁDÍM CIDA CAMPEADORA",
           "id": null,
           "children": []
         }
@@ -525,7 +525,7 @@
       "role": "chapter",
       "order": 23,
       "prev": "cid_a_jeho_verni_026.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -538,11 +538,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 154,
-      "chars": 960,
+      "chars": 959,
       "ideas": 18,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "cid_a_jeho_verni_027.html",
       "next": null,
@@ -559,8 +559,8 @@
   ],
   "totals": {
     "all": {
-      "words": 51403,
-      "chars": 301473,
+      "words": 51402,
+      "chars": 301477,
       "ideas": 1616
     },
     "chapters": {

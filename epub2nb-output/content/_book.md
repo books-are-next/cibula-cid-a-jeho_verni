@@ -38,7 +38,7 @@ readingOrder:
   - cid_a_jeho_verni_025.html
   - cid_a_jeho_verni_026.html
   - cid_a_jeho_verni_027.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
