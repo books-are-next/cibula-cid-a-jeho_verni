@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "cibula-cid-a-jeho-verni-e1ed070",
-  "revision": "e1ed070",
+  "identifier": "cibula-cid-a-jeho-verni-37cab4c",
+  "revision": "37cab4c",
   "readingOrder": [
     "promo.html",
     "cid_a_jeho_verni_005.html",
@@ -38,8 +38,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:20:27 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486427115
+    "date": "Sat Oct 01 2022 15:51:56 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639516173
   },
   "documents": [
     {
